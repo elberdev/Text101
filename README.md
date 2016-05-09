@@ -2,5 +2,5 @@
 
 A simple text adventure game from Ben Tristem's Unity Udemy course.
 
-#### Takeaways
+##### Takeaways
 * Intro to state machines
